@@ -1,0 +1,10 @@
+nav .navbar-nav li a{
+    color: white !important;
+    }
+nav .navbar-nav li a:hover {
+    color: blue !important;
+}
+
+footer a {
+    text-decoration: none !important;
+}
